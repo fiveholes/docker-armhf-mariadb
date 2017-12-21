@@ -1,6 +1,6 @@
 # docker-armhf-mariadb
 
-This images contains an instance of mariadb runnable on arm devices
+This images contains an instance of mariadb runnable on Odroid XU-4
 
 GitHub repository [github.com/fiveholes/docker-armhf-mariadb](https://github.com/fiveholes/docker-armhf-mariadb)
 
