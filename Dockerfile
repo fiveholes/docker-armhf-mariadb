@@ -5,7 +5,7 @@ ARG BUILD_TIME
 
 LABEL image.build.time=$BUILD_TIME
 
-ENV GOSU_VERSION=1.9
+ENV GOSU_VERSION=1.10
 
 RUN apk add --no-cache mariadb mysql-client pwgen
 
