@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 DOCKER_IMAGE=fiveholes/armhf-alpine-mariadb
 BUILD_TIME=$(date --rfc-2822)
